@@ -12,6 +12,7 @@ This a node command line app that allows you to enter details about your employe
   - [Installation](#installation)
   - [Usage](#usage)
   - [Test](#test)
+  - [Walk through video](#walk-through-video)
   - [Questions](#questions)
   
 ## Installation
@@ -29,6 +30,10 @@ This application can be used to build a html file which contains cards are relat
 ## Test
   
 * to test this application, Yrun it and check the html file that is in "output" folder named "team.html".
+
+## Walk through video
+
+[Watch the demo here](https://watch.screencastify.com/v/EUDaKpAscTZDDTTO3jCA)
 
 ## Questions
 
